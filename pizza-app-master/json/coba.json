@@ -1,0 +1,26 @@
+
+[
+{
+      "nama" : "eped",
+      "umur" : 21,
+      "nrp" : "173040034",
+      "lulus" : true,
+      "hobby" : ["coding","gaming"],
+      "pembimbing" : {
+            "pembimbing1" : "Adnan Hadiyana",
+            "pembimbing2" : "eped"
+      }
+},
+{
+      "nama" : "eped",
+      "umur" : 21,
+      "nrp" : "173040034",
+      "lulus" : true,
+      "hobby" : ["coding","gaming"],
+      "pembimbing" : {
+            "pembimbing1" : "Adnan Hadiyana",
+            "pembimbing2" : "eped"
+      }
+}
+
+]

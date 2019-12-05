@@ -1,0 +1,50 @@
+body {
+	background-image: url(../img/pow-star.png);
+}
+h1 {
+	font-family: 'bebas';
+	text-align: center;
+	margin-top: 70px;
+	font-size: 30px;
+	margin-bottom: 20px;
+
+}
+.kotak {
+	width: 500px;
+	margin: 0 auto 50px;
+	padding: 20px;
+	border: 1px solid rgba(0, 0, 0, .4);
+	background-color: rgba(255, 255, 255, .4);
+	border-radius: 30px;
+}
+.registrasi {
+	position: absolute;
+	width: 100px;
+	height: 30px;
+	border-radius: 40px;
+	background-color: #72FA8F;
+	font-size: 17px;
+	margin-left: 90%;
+	margin-top: -2.2%;
+	text-align: center;
+	line-height: 30px;
+	color: black;
+}
+/*.konten {
+	width: 500px;
+	text-align: center;
+	margin: 10px auto 30px;
+	line-height: 24px;
+}
+.logout {
+	position: absolute;
+	width: 100px;
+	height: 30px;
+	border-radius: 40px;
+	background-color: #F74343;
+	font-size: 17px;
+	margin-left: 7%;
+	margin-top: 0.3%;
+	text-align: center;
+	line-height: 30px;
+}*/

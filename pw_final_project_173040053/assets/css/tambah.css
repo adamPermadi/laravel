@@ -1,0 +1,47 @@
+body {
+	background-image: url(../img/pow-star.png);
+	font-family: helvetica;
+}
+ul li {
+	list-style-type: none;
+	text-align: center;
+	margin-top: 20px;
+}
+h1 {
+	font-family: times new roman;
+	font-size: 30px;
+	margin-top: 60px;
+	text-align: center;
+}
+label {
+	font-family: 'candela';
+	font-style: 18px;
+}
+input {
+	font-size: 18px;
+	border-radius: 10px;
+}
+button {
+	border-radius: 10px;
+	font-size: 18px;
+}
+.back {
+	position: absolute;
+	width: 100px;
+	height: 30px;
+	border-radius: 40px;
+	background-color: #72FA8F;
+	font-size: 17px;
+	margin-left: 90%;
+	margin-top: -2.2%;
+	text-align: center;
+	line-height: 30px;
+	color: black;
+}
+.back a:hover {
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	font-family: 'candela';
+	background-color: #ddd;
+}
